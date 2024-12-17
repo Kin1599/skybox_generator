@@ -1,4 +1,3 @@
-*
 
 # **Генератор скайбоксов**
 
@@ -64,3 +63,16 @@
 Генератор позволяет изменять  **параметры времени суток** , **погодных условий** и  **интенсивности шторма** , создавая уникальные и красивые скайбоксы для различных сценариев.
 
 ### Итоговые изображения:
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0006c51a-ddec-4f35-bda2-e8dd925a6627" alt="cloud top" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/942bb8d1-1195-4ede-9cd9-db3c40e6b8a5" alt="cloud bottom" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d9f0db08-efe4-4af6-8154-0dfea6ac551d" alt="storm front" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/dfd6a4eb-bac1-41bd-b5ec-7ec26e0ba1e8" alt="storm left" width="300"/></td>
+  </tr>
+
+</table>
+
+
